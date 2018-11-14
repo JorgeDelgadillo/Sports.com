@@ -1,0 +1,14 @@
+item {
+  display: block;
+  margin-bottom: 30pt;
+  margin-left; 0;
+
+}
+
+table {
+	margin:20px auto;
+ 	background: #fff;	
+ 	box-shadow: 5px 5px 2px #888888;
+ 	border-radius: 15px;
+ 	padding: 0%;
+}
